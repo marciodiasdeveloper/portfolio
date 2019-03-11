@@ -7,6 +7,7 @@
 - www.smokeyeyes.com.br
 - www.masterclassonline.com.br
 - www.renatarodriguesmakeup.com.br
+- www.vpsschool.com.br
 
 ## Skills
 - PHP
@@ -14,3 +15,4 @@
 - Angular
 - Vue
 - CSS
+- Mautic
