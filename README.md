@@ -1,1 +1,1 @@
-![My developer portfolio](bg.png)
+# My developer portfolio
