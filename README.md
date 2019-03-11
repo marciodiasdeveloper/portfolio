@@ -8,4 +8,9 @@
 - www.masterclassonline.com.br
 - www.renatarodriguesmakeup.com.br
 
-...
+## Skills
+- PHP
+- Javascript
+- Angular
+- Vue
+- CSS
