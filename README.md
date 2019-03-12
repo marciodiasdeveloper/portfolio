@@ -10,10 +10,17 @@
 - www.vpsschool.com.br
 - www.divilarimoveis.com.br
 
+## Mobile
+- Masterclass Online
+- Rede 10 Associados
+- SGEO
+- Diabetes Controlada
+
 ## Skills
 - PHP
 - Javascript
 - Angular
 - Vue
 - CSS
+- Ionic
 - Mautic
