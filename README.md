@@ -21,6 +21,7 @@
 - Javascript
 - Angular
 - Vue
+- React Native
 - CSS
 - Ionic
 - Mautic
