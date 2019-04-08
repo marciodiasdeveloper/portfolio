@@ -17,16 +17,18 @@ I solve problems that others don't.
 - www.vanessafainne.com.br
 
 ## Mobile
-- Masterclass Online
-- Rede 10 Associados
-- SGEO
-- Diabetes Controlada
+- SGEO (Ionic 4)
+- SGEO (React Native)
+- Masterclass Online (Ionic 3)
+- Rede 10 Associados (Ionic 3)
+- Diabetes Controlada (Ionic 3)
 
 ## Skills
 - PHP
 - Javascript
 - Angular
 - Vue
+- React
 - React Native
 - CSS
 - Ionic
