@@ -39,5 +39,3 @@ I solve problems that others don't.
 - Ionic
 - Mautic
 - Docker
-- NPM
-- Composer
