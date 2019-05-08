@@ -29,6 +29,7 @@ I solve problems that others don't.
 
 ## Skills
 - PHP
+- Laravel
 - Javascript
 - Angular
 - Vue
@@ -37,3 +38,6 @@ I solve problems that others don't.
 - CSS
 - Ionic
 - Mautic
+- Docker
+- NPM
+- Composer
