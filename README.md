@@ -26,6 +26,9 @@ I solve problems that others don't.
 - Masterclass Online (Ionic 3)
 - Rede 10 Associados (Ionic 3)
 - Diabetes Controlada (Ionic 3)
+- Whatsapp Clone (React Native)
+- Instagram Clone (React Native)
+- Uber Clone (React Native)
 
 ## Skills
 - PHP
