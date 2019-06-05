@@ -30,7 +30,7 @@ I solve problems that others don't.
 ## Mobile
 - SGEO (Ionic 4)
 - SGEO (React Native) - [https://play.google.com/store/apps/details?id=com.sgeo](https://play.google.com/store/apps/details?id=com.sgeo)
-- Masterclass Online (Ionic 3) - [https://play.google.com/store/apps/details?id=app.masterclassonline.com.br&hl=en_US](https://play.google.com/store/apps/details?id=app.masterclassonline.com.br&hl=en_US)
+- Masterclass Online (Ionic 3) - [https://play.google.com/store/apps/details?id=app.masterclassonline.com.br](https://play.google.com/store/apps/details?id=app.masterclassonline.com.br&hl=en_US)
 - Rede 10 Associados (Ionic 3)
 - Diabetes Controlada (Ionic 3)
 - Whatsapp Clone (React Native)
@@ -49,3 +49,5 @@ I solve problems that others don't.
 - Ionic
 - Mautic
 - Docker
+- NodeJS
+
