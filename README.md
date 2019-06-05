@@ -24,7 +24,8 @@ I solve problems that others don't.
 
 ## Web Service Documentations
 
-- docs.marciodias.me
+- [https://docs.sgeo.com.br](https://docs.sgeo.com.br)
+- [https://docs.marciodias.me](https://docs.marciodias.me)
 
 ## Mobile
 - SGEO (Ionic 4)
