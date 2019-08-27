@@ -22,7 +22,6 @@ I solve problems that others don't.
 - www.divilarimoveis.com.br
 - www.vanessafainne.com.br
 - www.neemiasn.com.br
-- www.dudueamaquina.com.br
 - www.vagnerfaria.com.br
 - www.improvisacaosemescalas.com.br
 - www.colegiodarwinbd.com.br
