@@ -42,19 +42,18 @@ I solve problems that others don't.
 - Uber Clone (React Native)
 
 ## Skills
+- NodeJs
+- Express
+- AdonisJs
+- ReactJs
+- React Native
 - PHP
 - Laravel
 - Javascript
 - Angular
 - Vue
-- React
-- React Native
 - CSS
 - Ionic
 - Mautic
 - Docker
-- NodeJS
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
 
