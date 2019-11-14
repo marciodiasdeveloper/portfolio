@@ -13,19 +13,16 @@ I solve problems that others don't.
 ## Projects
 
 - www.sgeo.com.br
-- www.rendasetules.com.br
 - www.smokeyeyes.com.br
 - www.masterclassonline.com.br
 - www.renatarodriguesmakeup.com.br
 - www.escassezreal.com.br
 - www.vpsschool.com.br
 - www.divilarimoveis.com.br
-- www.vanessafainne.com.br
 - www.neemiasn.com.br
 - www.vagnerfaria.com.br
 - www.improvisacaosemescalas.com.br
 - www.colegiodarwinbd.com.br
-- www.darwincolegio.com.br
 
 ## Web Service Documentations
 
