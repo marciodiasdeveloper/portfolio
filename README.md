@@ -31,12 +31,13 @@ I solve problems that others don't.
 
 ## Mobile
 - SGEO (React Native) - [https://play.google.com/store/apps/details?id=com.sgeo](https://play.google.com/store/apps/details?id=com.sgeo)
+- Uber Clone (React Native)
+- Whatsapp Clone (React Native)
+- Instagram Clone (React Native)
+- DevsFit (React Native)
 - Masterclass Online (Ionic 3) - [https://play.google.com/store/apps/details?id=app.masterclassonline.com.br](https://play.google.com/store/apps/details?id=app.masterclassonline.com.br&hl=en_US)
 - Rede 10 Associados (Ionic 3)
 - Diabetes Controlada (Ionic 3)
-- Whatsapp Clone (React Native)
-- Instagram Clone (React Native)
-- Uber Clone (React Native)
 
 ## Skills
 - NodeJs
@@ -53,4 +54,3 @@ I solve problems that others don't.
 - Ionic
 - Mautic
 - Docker
-
