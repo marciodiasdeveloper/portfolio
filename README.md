@@ -12,9 +12,10 @@ I solve problems that others don't.
 
 ## Projects
 
-- www.sgeo.com.br
-- www.smokeyeyes.com.br
-- www.masterclassonline.com.br
+- Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - www.leticiadepaula.com.br
+- Sistema de Gestão Escolar Online - www.sgeo.com.br
+- Curso online com Ana Paula Marçal - www.smokeyeyes.com.br
+- Masterclass online com Ana Paula Marçal - www.masterclassonline.com.br
 - www.renatarodriguesmakeup.com.br
 - www.escassezreal.com.br
 - www.vpsschool.com.br
