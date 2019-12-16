@@ -16,9 +16,9 @@ I solve problems that others don't.
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
 - www.smokeyeyes.com.br - Curso online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
 - www.masterclassonline.com.br - Masterclass online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
-- www.renatarodriguesmakeup.com.br - 
-- www.escassezreal.com.br - 
-- www.vpsschool.com.br - 
+- www.renatarodriguesmakeup.com.br - Curso Online com Renata Rodrigues (Para Quem Ama Maquiagem)
+- www.escassezreal.com.br - Fábrica de plugins para marketing de vendas
+- www.vpsschool.com.br - Curso online Linux VPS
 - www.divilarimoveis.com.br - Divilar Imóveis (Sistema imobiliário)
 - www.neemiasn.com.br
 - www.vagnerfaria.com.br
