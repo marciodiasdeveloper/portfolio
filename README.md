@@ -35,6 +35,7 @@ I solve problems that others don't.
 - Uber Clone (React Native)
 - Whatsapp Clone (React Native)
 - Instagram Clone (React Native)
+- Tindev - Tinder for developers (React Native)
 - DevsFit (React Native)
 - Masterclass Online (Ionic 3) - [https://play.google.com/store/apps/details?id=app.masterclassonline.com.br](https://play.google.com/store/apps/details?id=app.masterclassonline.com.br&hl=en_US)
 - Rede 10 Associados (Ionic 3)
