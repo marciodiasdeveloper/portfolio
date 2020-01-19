@@ -36,6 +36,7 @@ I solve problems that others don't.
 - Whatsapp Clone (React Native)
 - Instagram Clone (React Native)
 - Tindev - Tinder for developers (React Native)
+- DevRadar - [https://github.com/marciodiasdeveloper/omnistack10-devradar](https://github.com/marciodiasdeveloper/omnistack10-devradar)
 - DevsFit (React Native)
 - Masterclass Online (Ionic 3) - [https://play.google.com/store/apps/details?id=app.masterclassonline.com.br](https://play.google.com/store/apps/details?id=app.masterclassonline.com.br&hl=en_US)
 - Rede 10 Associados (Ionic 3)
