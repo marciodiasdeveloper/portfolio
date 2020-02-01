@@ -32,6 +32,7 @@ I solve problems that others don't.
 
 ## Mobile
 - SGEO (React Native) - [https://play.google.com/store/apps/details?id=com.sgeo](https://play.google.com/store/apps/details?id=com.sgeo)
+- GoBarber (RockeSteat GoStack Course)
 - Uber Clone (React Native)
 - Whatsapp Clone (React Native)
 - Instagram Clone (React Native)
