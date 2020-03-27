@@ -27,10 +27,7 @@ I solve problems that others don't.
 - www.escassezreal.com.br - Fábrica de plugins para marketing de vendas
 - www.vpsschool.com.br - Curso online Linux VPS
 - www.divilarimoveis.com.br - Divilar Imóveis (Sistema imobiliário)
-- www.neemiasn.com.br
-- www.vagnerfaria.com.br
-- www.improvisacaosemescalas.com.br - Curso online Improvisação Sem Escalas
-- www.colegiodarwinbd.com.br
+
 
 ## Web Service Documentations
 
