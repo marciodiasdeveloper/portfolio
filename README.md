@@ -10,7 +10,7 @@ I solve problems that others don't.
 - [https://www.facebook.com/marciodias.me/](https://www.facebook.com/marciodias.me/)
 - [https://facebook.com/marciodiasdev](https://facebook.com/marciodiasdev)
 
-## Projects
+## Projects web
 
 - www.leticiadepaula.com.br - Curso online com Letícia de Paula [@leticiadepaulaoficial](https://www.instagram.com/leticiadepaulaoficial/) - 
 - www.sgeo.com.br - Sistema de Gestão Escolar Online
@@ -24,6 +24,12 @@ I solve problems that others don't.
 - www.vagnerfaria.com.br
 - www.improvisacaosemescalas.com.br - Curso online Improvisação Sem Escalas
 - www.colegiodarwinbd.com.br
+
+## Projects Full Stack ()
+- GoBarber (RockeSteat GoStack Course) (React Native)
+- Be The Hero (OminisTack 11.0) [https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
+- DevRadar (OminiStack 10.0) [https://github.com/marciodiasdeveloper/oministack-week-10-devradar](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
+- AirBnb Clone (OminiStack 9.0) [https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone](https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone)
 
 ## Web Service Documentations
 
