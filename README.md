@@ -31,7 +31,7 @@ I solve problems that others don't.
 - [https://docs.marciodias.me](https://docs.marciodias.me)
 
 ## Mobile
-- SGEO (React Native) - [https://play.google.com/store/apps/details?id=com.sgeo](https://play.google.com/store/apps/details?id=com.sgeo)
+- Sistema de Gestão Escolar Online (SGEO) (React Native)
 - GoBarber (RockeSteat GoStack Course) (React Native)
 - Be The Hero (OminisTack 11.0) [https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
 - Uber Clone (React Native)
@@ -40,7 +40,7 @@ I solve problems that others don't.
 - Tindev - Tinder for developers (React Native)
 - DevRadar - [https://github.com/marciodiasdeveloper/omnistack10-devradar](https://github.com/marciodiasdeveloper/omnistack10-devradar)
 - DevsFit (React Native)
-- Masterclass Online (Ionic 3) - [https://play.google.com/store/apps/details?id=app.masterclassonline.com.br](https://play.google.com/store/apps/details?id=app.masterclassonline.com.br&hl=en_US)
+- Masterclass Online (Ionic 3)
 - Rede 10 Associados (Ionic 3)
 - Diabetes Controlada (Ionic 3)
 
