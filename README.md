@@ -26,7 +26,6 @@ I solve problems that others don't.
 - www.masterclassonline.com.br - Masterclass online com Ana Paula Marçal [@apmarcal](https://www.instagram.com/apmarcal/)
 - www.renatarodriguesmakeup.com.br - Curso online com Renata Rodrigues (Para Quem Ama Maquiagem)
 - www.escassezreal.com.br - Fábrica de plugins para marketing de vendas
-- www.vpsschool.com.br - Curso online Linux VPS
 - www.divilarimoveis.com.br - Divilar Imóveis (Sistema imobiliário)
 
 ## E-commerce Web
@@ -34,6 +33,7 @@ I solve problems that others don't.
 - [www.kabannastore.com.br](www.kabannastore.com.br)
 - [www.lavenuestore.com.br](www.lavenuestore.com.br)
 - [www.lpmakeupstore.com.br](www.lpmakeupstore.com.br)
+- [www.anadoceu.com](www.lpmakeupstore.com.br)
 
 ## Web Service Documentations
 
