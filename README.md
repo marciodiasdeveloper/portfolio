@@ -33,7 +33,7 @@ I solve problems that others don't.
 - [www.kabannastore.com.br](www.kabannastore.com.br)
 - [www.lavenuestore.com.br](www.lavenuestore.com.br)
 - [www.lpmakeupstore.com.br](www.lpmakeupstore.com.br)
-- [www.lumaville.com](www.lumaville.com.br)
+- [www.lumaville.com.br](www.lumaville.com.br)
 
 ## Web Service Documentations
 
