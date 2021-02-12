@@ -4,6 +4,8 @@ My name Is Márcio Dias, I'm a Full Stack Developer from Divinópolis, Minas Ger
 
 I solve problems that others don't.
 
+![Márcio Dias | Soluções Digitais](https://admin.marciodias.me/images/marca/vertical/marca-default.png)
+
 ## Social
 
 - [https://instagram.com/marciodias.me](https://instagram.com/marciodias.me)
