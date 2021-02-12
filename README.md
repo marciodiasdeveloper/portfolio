@@ -14,9 +14,9 @@ I solve problems that others don't.
 
 - Sgeo (Back-end, Front-end, Mobile) [https://www.sgeo.com.br]
 - GoBarber (RockeSteat GoStack Bootcamp Course)
-- Be The Hero (OminisTack 11.0) [https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
-- DevRadar (OminiStack 10.0) [https://github.com/marciodiasdeveloper/oministack-week-10-devradar](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
-- AirBnb Clone (OminiStack 9.0) [https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone](https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone)
+- Be The Hero (OminisTack 11.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-11-be-the-hero)
+- DevRadar (OminiStack 10.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-10-devradar)
+- AirBnb Clone (OminiStack 9.0) [Github](https://github.com/marciodiasdeveloper/oministack-week-09-airbnb-clone)
 
 ## Projects web
 
